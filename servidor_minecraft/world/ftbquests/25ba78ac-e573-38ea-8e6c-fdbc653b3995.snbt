@@ -1,0 +1,15 @@
+{
+	version: 1
+	uuid: "25ba78ace57338ea8e6cfdbc653b3995"
+	name: "LuchoCheddar97"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

@@ -1,0 +1,15 @@
+{
+	version: 1
+	uuid: "6c2c14865d62324bba1cdd3caf3ede4b"
+	name: "LanboyTroll"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

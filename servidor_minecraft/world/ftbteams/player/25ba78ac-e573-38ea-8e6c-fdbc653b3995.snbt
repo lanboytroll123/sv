@@ -1,0 +1,17 @@
+{
+	id: "25ba78ac-e573-38ea-8e6c-fdbc653b3995"
+	type: "player"
+	player_name: "LuchoCheddar97"
+	ranks: {
+		25ba78ac-e573-38ea-8e6c-fdbc653b3995: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "LuchoCheddar97"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFD559"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
