@@ -1,0 +1,17 @@
+{
+	id: "6c2c1486-5d62-324b-ba1c-dd3caf3ede4b"
+	type: "player"
+	player_name: "LanboyTroll"
+	ranks: {
+		6c2c1486-5d62-324b-ba1c-dd3caf3ede4b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "LanboyTroll"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59EFFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "38b27321-711a-3cd0-9265-dd262cf1e9a2"
+	type: "player"
+	player_name: "LokoMati23"
+	ranks: {
+		38b27321-711a-3cd0-9265-dd262cf1e9a2: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "LokoMati23"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFF859"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "d244f946-4a71-3db8-8cb4-37c9c00b11fa"
+	type: "player"
+	player_name: "benjarrue12"
+	ranks: {
+		d244f946-4a71-3db8-8cb4-37c9c00b11fa: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "benjarrue12"
+		"ftbteams:description": ""
+		"ftbteams:color": "#D8FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

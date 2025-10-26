@@ -1,0 +1,30 @@
+[23:56:46.813][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
+[23:56:46.820][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[23:56:46.825][INFO]: Successfully identified and loaded plugin mekanism:crt_plugin
+[23:56:46.830][INFO]: Successfully identified and loaded plugin immersiveengineering:ct_module
+[23:56:48.822][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
+[23:56:48.822][INFO]: - 'crafttweaker' at version '9.1.213'
+[23:56:48.822][INFO]: - 'immersiveengineering' at version '1.18.2-8.4.0-161'
+[23:56:48.823][INFO]: - 'immersivepetroleum' at version '4.2.0-25'
+[23:56:48.823][INFO]: - 'mekanism' at version '10.2.5'
+[23:57:00.904][INFO]: Started loading scripts for loader 'mekanismcontent'
+[23:57:01.405][INFO]: Compiling and executing scripts
+[23:57:02.716][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[23:57:02.922][INFO]: Execution for loader 'mekanismcontent' completed successfully
+[23:57:02.923][INFO]: Registering 0 custom gases.
+[23:57:02.947][INFO]: Registering 0 custom infuse types.
+[23:57:02.976][INFO]: Registering 0 custom pigments.
+[23:57:02.983][INFO]: Registering 0 custom robit skins.
+[23:57:02.991][INFO]: Registering 0 custom slurries.
+[23:57:05.828][INFO]: Started loading scripts for loader 'initialize'
+[23:57:05.895][INFO]: Compiling and executing scripts
+[23:57:05.896][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[23:57:05.936][INFO]: Execution for loader 'initialize' completed successfully
+[23:57:54.522][INFO]: Started loading scripts for loader 'tags'
+[23:57:54.609][INFO]: Compiling and executing scripts
+[23:57:54.619][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[23:57:54.651][INFO]: Execution for loader 'tags' completed successfully
+[23:58:00.262][INFO]: Started loading scripts for loader 'crafttweaker'
+[23:58:00.299][INFO]: Compiling and executing scripts
+[23:58:00.622][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[23:58:00.637][INFO]: Execution for loader 'crafttweaker' completed successfully

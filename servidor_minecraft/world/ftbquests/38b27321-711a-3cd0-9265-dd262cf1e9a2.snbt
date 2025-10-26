@@ -1,0 +1,15 @@
+{
+	version: 1
+	uuid: "38b27321711a3cd09265dd262cf1e9a2"
+	name: "LokoMati23"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

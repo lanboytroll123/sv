@@ -1,0 +1,17 @@
+{
+	id: "c75950e0-9734-390f-85df-c26711b8edfe"
+	type: "player"
+	player_name: "wekapipo"
+	ranks: {
+		c75950e0-9734-390f-85df-c26711b8edfe: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "wekapipo"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFFA59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

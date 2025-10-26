@@ -1,0 +1,18 @@
+[23:57:34] [INFO ] Hello, World! (You will see this line every time server resources reload)
+[23:57:34] [INFO ] Loaded script server_scripts:script.js in 0.002 s
+[23:57:34] [INFO ] Loaded 1/1 KubeJS server scripts in 0.026 s
+[23:57:34] [INFO ] Scripts loaded
+[23:57:34] [INFO ] Scanning recipes...
+[23:57:54] [WARN ] Failed to parse recipe 'twilightforest:smeltery/casting/metal/knightmetal/nugget_gold_cast[tconstruct:casting_table]': {"tag":"forge:nuggets/knightmetal"} is not a valid result!
+[23:57:54] [WARN ] Failed to parse recipe 'twilightforest:smeltery/casting/metal/knightmetal/nugget_sand_cast[tconstruct:casting_table]': {"tag":"forge:nuggets/knightmetal"} is not a valid result!
+[23:57:55] [WARN ] Failed to parse recipe 'twilightforest:smeltery/casting/metal/fiery/nugget_sand_cast[tconstruct:casting_table]': {"tag":"forge:nuggets/fiery"} is not a valid result!
+[23:57:55] [WARN ] Failed to parse recipe 'createaddition:compat/tconstruct/tinkers_bronze[create:mixing]': {"item":"tconstruct:tinkers_bronze_ingot","count":3} is not a valid result!
+[23:57:55] [WARN ] Failed to parse recipe 'twilightforest:smeltery/casting/metal/fiery/nugget_gold_cast[tconstruct:casting_table]': {"tag":"forge:nuggets/fiery"} is not a valid result!
+[23:57:55] [INFO ] Found 8835 recipes and 0 failed recipes in 1.084 s
+[23:57:55] [INFO ] Posted recipe events in 778.7 μs
+[23:57:55] [WARN ] Error parsing recipe create_mechanical_extruder:extruding/cobblestone[create_mechanical_extruder:extruding]: {"type":"create_mechanical_extruder:extruding","ingredients":[{"fluid":"minecraft:water","amount":1000},{"fluid":"minecraft:lava","amount":1000}],"result":{"item":"minecraft:cobblestone"}}: java.lang.NullPointerException: Cannot invoke "net.minecraft.world.item.ItemStack.m_41619_()" because "this.catalyst" is null
+[23:57:55] [WARN ] Error parsing recipe create_sa:sponge_pressing[create:compacting]: {"type":"create:compacting","ingredients":[{"item":"minecraft:wet_sponge"}],"results":[{"item":"minecraft:sponge","count":1},{"fluid":"minecraft:water","amount":1000,"nbt":null}]}: com.google.gson.JsonSyntaxException: Expected nbt to be a string, was null (json)
+[23:57:56] [WARN ] Error parsing recipe create_mechanical_extruder:extruding/stone[create_mechanical_extruder:extruding]: {"type":"create_mechanical_extruder:extruding","ingredients":[{"fluid":"minecraft:water","amount":1000},{"fluid":"minecraft:lava","amount":1000}],"result":{"item":"minecraft:stone"}}: java.lang.NullPointerException: Cannot invoke "net.minecraft.world.item.ItemStack.m_41619_()" because "this.catalyst" is null
+[23:57:56] [INFO ] Modified & removed recipes in 341.4 ms
+[23:57:56] [INFO ] Added recipes in 483.0 μs
+[23:57:56] [INFO ] Added 0 recipes, removed 0 recipes, modified 0 recipes, with 3 failed recipes and 0 fall-backed recipes

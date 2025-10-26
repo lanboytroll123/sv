@@ -1,0 +1,10 @@
+[26Oct2025 00:05:25.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LanboyTroll has made the advancement [The Andesite Age]
+[26Oct2025 00:06:24.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [LanboyTroll: Teleported LanboyTroll to -1296.500000, 120.500000, -603.500000]
+[26Oct2025 00:09:16.026] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LanboyTroll lost connection: Disconnected
+[26Oct2025 00:09:16.027] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LanboyTroll left the game
+[26Oct2025 00:09:41.778] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7fe725a9
+[26Oct2025 00:09:41.790] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kisazoooooo[/127.81.144.252:51435] logged in with entity id 6890 at (2008.0996495643121, 63.0, -1330.0458599087062)
+[26Oct2025 00:09:41.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kisazoooooo joined the game
+[26Oct2025 00:09:41.849] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Oct2025 00:10:09.574] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kisazoooooo lost connection: Disconnected
+[26Oct2025 00:10:09.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kisazoooooo left the game
